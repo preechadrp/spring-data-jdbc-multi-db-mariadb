@@ -1,0 +1,4 @@
+-spring data jdbc - multi db
+-mariadb db
+- @Bean CommandLineRunner
+-การเขียน multi-database ใน springboot จะปิดการสร้าง datasource อัตโนมัติ และเราต้องจัดการเอง datasource เองทั้งหมด
